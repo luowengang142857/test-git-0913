@@ -14,10 +14,12 @@ public class TestA {
 
         System.out.println("我是B：我修改了代码");
 
+        System.out.println("A:第二次修改了代码");
+
 
         int a = 10;
         if(a>=9){
-            System.out.println("a>=9");
+            System.out.println("a>=9 A修改了代码");
         }else {
             System.out.println("a<=9");
         }
