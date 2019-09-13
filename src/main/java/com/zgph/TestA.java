@@ -8,7 +8,8 @@ public class TestA {
     public static void main(String[] args) {
 
         System.out.println("hello-java!!!");
-        
+
+        System.out.println("我是A：我修改了代码");
 
         int a = 10;
         if(a>=9){
