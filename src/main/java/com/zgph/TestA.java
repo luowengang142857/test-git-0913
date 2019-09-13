@@ -19,7 +19,10 @@ public class TestA {
 
         int a = 10;
         if(a>=9){
-            System.out.println("a>=9 A修改了代码");
+            
+
+            System.out.println("a>=9 nihao");
+
         }else {
             System.out.println("a<=9");
         }
